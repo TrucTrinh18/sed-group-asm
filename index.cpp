@@ -10,7 +10,7 @@ int main() {
             "\ns3911244, Tran Hoang Phuc "
             "\ns3883631, Nguyen Huy Binh "
             "\ns3883630, Nguyen Tri Dung "
-            "\ns..., ... " << endl;
+            "\ns3927089, Trinh Thanh Thanh Truc" << endl;
 
 
     return 0;
